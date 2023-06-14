@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HtooTintWai
 - 👀 I’m interested in IT Programming & Networking.
-- 🌱 I’m currently learning FWD & NE.
+- 🌱 I’m currently learning.
 - 📫 How to reach me ...
 
 <!---
