@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @HtooTintWai
-- 👀 I’m interested in IT Programming & Networking.
-- 🌱 I’m currently learning.
-- 📫 How to reach me ...
+- 👋 Hi, I’m @HtooTintWai.
+- 🌱 I’m currently ...
 
 <!---
 HtooTintWai/HtooTintWai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
