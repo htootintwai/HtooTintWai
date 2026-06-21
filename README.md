@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HtooTintWai.
+- 👋 Hi, I’m @_@.
 - 🌱 I’m currently ...
 
 <!---
-HtooTintWai/HtooTintWai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+@_@ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
